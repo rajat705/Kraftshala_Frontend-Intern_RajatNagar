@@ -1,4 +1,4 @@
-<h1 align="center">Weather-App</h1>
+<h1 align="center">Kraftshala Frontend-Intern Task Weather-App</h1>
 
 # Description
 The Weather Website is a web application that provides real-time weather information for cities around the world. It offers features such as geolocation-based weather data, a search bar to look up weather for specific cities, hourly forecasts, and more.
@@ -6,8 +6,8 @@ The Weather Website is a web application that provides real-time weather informa
 # Installation 
 ### Clone the Repository:
  
-    git clone https://github.com/rajat705/Weather-App.git
-    cd Weather-App
+    git clone https://github.com/rajat705/Kraftshala_Frontend-Intern_RajatNagar.git
+    cd Kraftshala_Frontend-Intern_RajatNagar
 
    ### Install dependency:
     npm install
