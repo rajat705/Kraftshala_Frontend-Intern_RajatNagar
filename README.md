@@ -3,6 +3,13 @@
 # Description
 The Weather Website is a web application that provides real-time weather information for cities around the world. It offers features such as geolocation-based weather data, a search bar to look up weather for specific cities, hourly forecasts, and more.
 
+## Technologies Used
+
+- `React`: Frontend library for building user interfaces.  <br>
+- `OpenWeatherMap API`: Provides weather data for cities.  <br>
+- `HTML and CSS`: For structuring and styling the website.  <br>
+- `JavaScript`: For client-side scripting.
+
 # Installation 
 ### Clone the Repository:
  
@@ -24,20 +31,14 @@ The Weather Website is a web application that provides real-time weather informa
 - `Hourly Forecast`: Displays a graphical representation of the hourly weather forecast.  <br>
 - `Responsive Design`: Ensures a seamless experience on both desktop and mobile devices.
 
-## Technologies Used
-
-- `React`: Frontend library for building user interfaces.  <br>
-- `OpenWeatherMap API`: Provides weather data for cities.  <br>
-- `HTML and CSS`: For structuring and styling the website.  <br>
-- `JavaScript`: For client-side scripting.
 
 ## Images
 
-<img width="1440" alt="Screenshot 2024-04-30 at 11 31 31" src="https://github.com/rajat705/Weather-App/assets/107322135/48f56937-4871-4deb-9b17-b13e21498ae2">
+![image](https://github.com/rajat705/Kraftshala_Frontend-Intern_RajatNagar/assets/107322135/2028ced0-695f-491f-9ccd-159f0bcfe558)
 
-<img width="513" alt="Screenshot 2024-04-30 at 11 33 07" src="https://github.com/rajat705/Weather-App/assets/107322135/31b26447-84da-4050-bcdb-d49e4baeafe9">
+![image](https://github.com/rajat705/Kraftshala_Frontend-Intern_RajatNagar/assets/107322135/04dcbc01-30e0-440b-ba88-b19dba38d97a)
 
-<img width="325" alt="Screenshot 2024-04-30 at 11 32 31" src="https://github.com/rajat705/Weather-App/assets/107322135/3167f6f4-749e-49ad-a4db-d84d4b1e2971">
+![image](https://github.com/rajat705/Kraftshala_Frontend-Intern_RajatNagar/assets/107322135/db801cf6-1a14-4268-b67c-f484f4d39643)
 
 
 
